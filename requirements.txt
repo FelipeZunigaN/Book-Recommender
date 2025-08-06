@@ -11,3 +11,4 @@ gradio
 notebook
 ipywidgets
 torch
+pytest

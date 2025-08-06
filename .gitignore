@@ -1,2 +1,7 @@
 venv/
 .env
+chroma_db_books/
+__pycache__/
+.pytest_cache/
+notebook/
+chroma_db_books/
